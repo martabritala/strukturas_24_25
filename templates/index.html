@@ -6,12 +6,22 @@
     <body>
         <a href = "/">Joks</a>
         <br>
+        <a href="/uni">Universitātes</a>
+        <br>
         <a href = "/jschats">Čats</a>
         <hr>
-        {% block saturs %}
+        {%block saturs%}
         <h2>Joki šeit!</h2>
         <img src="{{bilde}}">
         <p>{{joks}}</p>
-        {% endblock %}
+        <form method = "post">
+            <select name = "kat">
+                {% for elements in kategorijas %}
+                    <option value = {{elements}}>{{elements}}</option>
+                {%endfor%}
+            </select>
+            <input type="submit" value="Izvēlēties joka kategoriju!">
+        </form>
+        {%endblock%}
     </body>
 </html>
