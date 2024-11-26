@@ -1,9 +1,17 @@
 <!DOCTYPE html>
 <html>
-    <head></head>
+    <head>
+        <script src="{{url_for('static', filename = 'funkcijas.js')}}"></script>
+    </head>
     <body>
+        <a href = "/">Joks</a>
+        <br>
+        <a href = "/jschats">Čats</a>
+        <hr>
+        {% block saturs %}
         <h2>Joki šeit!</h2>
         <img src="{{bilde}}">
         <p>{{joks}}</p>
+        {% endblock %}
     </body>
 </html>
