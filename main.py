@@ -41,9 +41,25 @@ def chats():
 @app.route("/jschats/suutiit", methods = ["POST"])
 def suutiit():
     sanemtais = request.json
+    if sanemtais["saturs"] == "\clear":
+        with open("chataZinas.txt", "w") as f:
+            f.write("")
+        return "Izdzests"
     with open("chataZinas.txt", "a") as f:
+        f.write(sanemtais["vards"])
+        f.write("----")
         f.write(sanemtais["saturs"])
+        f.write('\n')
     return jsonify("OK")
+
+@app.route("/jschats/lasiit")
+def lasit():
+    saturs = []
+    with open("chataZinas.txt", "r") as f:
+        saturs = f.readlines()
+    return jsonify(saturs)
+
+
 
 if __name__ == '__main__':
     app.run(port = 5000)
