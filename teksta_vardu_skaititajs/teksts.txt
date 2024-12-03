@@ -1,0 +1,49 @@
+Kas ir mākslīgais intelekts un kur to izmanto?
+Mākslīgais intelekts (AI, reizēm MI) varētu būt "noteicošā nākotnes tehnoloģija". Bet kas īsti ir AI un kā tas jau ietekmē mūsu ikdienas dzīvi?
+Kas ir mākslīgais intelekts?
+AI ir sistēmas spēja pareizi interpretēt ārējos datus un modelēt cilvēkiem līdzīgas uzvedības, piemēram, saprātīgu izturēšanos, mācīšanās spējas, plānošanu un radošumu.
+AI ļauj tehniskajām sistēmām analizēt apkārtējos apstākļus, strādāt ar uztverto un risināt problēmas, lai — zināmā mērā neatkarīgi — sasniegtu noteiktus mērķus. Dators saņem datus (jau sagatavotus vai apkopotus), ar savu sensoru starpniecību, piemēram, kameru, tos apstrādā un veic darbības.
+AI sistēmas ir spējīgas izrādīt intelektisku rīcību, analizējot iepriekšējo darbību ietekmi un strādājot autonomi.
+Kāpēc AI ir svarīgs?
+Dažas AI tehnoloģijas pastāv jau vairāk nekā 50 gadus, taču datortehnikas attīstība un datoru jaudas palielināšanās, plašāka datu daudzuma pieejamība un jauni algoritmi pēdējos gados ir veicinājuši ievērojamus sasniegumus AI tehnoloģiju jomā.
+Mākslīgajam intelektam ir nozīmīga loma mūsu sabiedrības pārveidošanā un mūsu ekonomikas digitalizēšanā daudzās nozarēs; AI un robotikas attīstība ir kļuvusi par ES prioritāti.
+Paredzams, ka nākotnes lietojumprogrammas nesīs milzīgas pārmaiņas, taču AI jau vairākus gadus ir daļa no mūsu ikdienas dzīves.
+AI veidi (EK definīcija)
+Programmatūra: virtuālie palīgi, attēlu analīzes programmatūra, meklētājprogrammas, runas un sejas atpazīšanas sistēmas.
+Datortehnikas ierīcēs iestrādāts AI: robotos, autonomos automobiļos, bezpilota lidaparātos, lietu interneta lietotnēs (Internet of Things, IoT).
+AI ikdienas dzīvē
+Zemāk minēti daži mākslīgā intelekta pielietojumi, ar kuriem saskaramies ikdienā, bet, iespējams, neapzināmies, ka tie ir ar mākslīgo intelektu darbināmi.
+Iepirkšanās tiešsaistē un reklāma
+Mākslīgo intelektu plaši izmanto, lai sniegtu personalizētus ieteikumus cilvēkiem, pamatojoties, piemēram, uz viņu iepriekšējiem meklējumiem un pirkumiem, vai citu uzvedību tiešsaistē. Mākslīgā intelekta pielietojums tirdzniecībā ir ļoti plašs un jo vairāk nozīmīgs produktu optimizācijā, uzskaitē, loģistikas jomā utt.
+Meklēšana tīmeklī
+Meklētājprogrammas mācās no plašas datu ievades, ko sniedz to lietotāji, lai piedāvātu attiecīgus meklēšanas rezultātus.
+Digitālie personālie asistenti
+Viedtālruņi izmanto mākslīgo intelektu, lai nodrošinātu pēc iespējās atbilstošāku un personalizētu produktu. Virtuālie asistenti, kas atbild uz jautājumiem, sniedz ieteikumus un palīdz organizēt ikdienas rutīnu, ir kļuvuši plaši pieejami.
+Citi mākslīgā intelekta izmantošanas piemēri
+Var prognozēt, ka mākslīgais intelekts pārveidos praktiski visus dzīves aspektus un ekonomikas struktūru. Zemāk minēti tikai atsevišķi jomu piemēri.
+Mašīntulkojumi
+Valodas tulkošanas programmatūra, kuras pamatā ir vai nu rakstisks, vai mutisks teksts, ir balstīta uz mākslīgo intelektu, lai nodrošinātu un uzlabotu tulkojumus. Tas attiecas arī uz tādām funkcijām kā automatizēta subtitrēšana.
+Viedie mājokļi, pilsētas un infrastruktūra
+Viedie termostati mācās no mūsu uzvedības taupīt enerģiju, savukārt viedo pilsētu attīstītāji cer ar AI palīdzību regulēt satiksmi, lai uzlabotu savienojumu iespējas un samazinātu satiksmes sastrēgumus.
+Automobiļi
+Lai gan pašbraucošas automašīnas vēl nav standarta transportlīdzekļi, esošajos automobiļos jau tiek izmantotas ar mākslīgo intelektu darbināmas drošības funkcijas. Piemēram, ES ir palīdzējusi finansēt VI-DAS, automatizētus sensorus, kas atklāj iespējamas bīstamas situācijas un negadījumus. Navigācija lielā mērā tiek darbināta ar mākslīgo intelektu.
+Kiberdrošība
+Mākslīgā intelekta sistēmas var palīdzēt atpazīt un apkarot kiberuzbrukumus un citus kiberdraudus, pamatojoties uz datu pastāvīgu ievadīšanu, atpazīstot modeļus un novēršot uzbrukumus.
+Mākslīgais intelekts cīņā pret Covid-19
+Covid-19 apkarošanā AI tiek izmantots termiskās attēlveidošanas pasākumiem lidostās un citās sabiedriskajās vietās. Medicīnā mākslīgais intelekts var palīdzēt atpazīt inficēšanos, skenējot plaušas datortomogrāfijā. AI tehnoloģijas tiek izmantotas, lai nodrošinātu datus slimības izplatīšanās izsekošanai.
+Dezinformācijas apkarošana
+Dažas mākslīgā intelekta lietojumprogrammas var palīdzēt atklāt viltus ziņas un dezinformāciju, izmantojot sociālajos plašsaziņas līdzekļos izplatītu informāciju, meklējot jutīga vai satraucoša rakstura vārdus un identificējot, kuri tiešsaistes avoti tiek uzskatīti par oficiāliem.
+Veselība
+Pētnieki strādā pie risinājumiem, lai varētu izmantot mākslīgā intelekta tehnoloģijas liela veselības datu apjoma analīzei un jaunu modeļu izstrādei, kas varētu veicināt jaunus atklājumus medicīnā un veidus, kā uzlabot veikt precīzāku diagnosticēšanu.
+Piemēram, pētnieki izstrādāja mākslīgā intelekta programmu, lai atbildētu uz ārkārtas izsaukumiem, kas sola atpazīt sirdsdarbības apstāšanos zvana laikā ātrāk un sekmīgāk nekā medicīnas dispečers. Vēl viens veiksmīgs piemērs ir ES līdzfinansētais KConnect projekts, kura mērķis ir izstrādāt daudzvalodu tekstu un meklēšanas pakalpojumus, kas palīdz cilvēkiem atrast visatbilstošāko pieejamo medicīnisko informāciju.
+Transports
+Ai tehnoloģijas varētu uzlabot dzelzceļa satiksmes drošību, ātrumu un efektivitāti, samazinot riteņu berzi, maksimāli palielinot ātrumu un veicinot autonomu braukšanu.
+Ražošana
+Mākslīgais intelekts un robotika var palīdzēt Eiropas ražotājiem kļūt efektīvākiem un atgriezt ražošanu atpakaļ Eiropā, izmantojot robotus ražošanā, optimizējot pārdošanas ceļus vai savlaicīgi nosakot, kuriem mehānismiem nepieciešama tehniskā apkope, un prognozējot  darbības traucējumus viedajās rūpnīcās.
+SatisFactory, ES līdzfinansētā pētniecības projektā izmanto sadarbīgas un paplašinātās realitātes sistēmas, lai palielinātu apmierinātību ar darbu viedajās rūpnīcās.
+Pārtika un lauksaimniecība
+AI var izmantot, lai izveidotu ilgtspējīgu ES pārtikas sistēmu: tehnoloģijas var nodrošināt veselīgāku pārtiku, samazinot mēslošanas līdzekļu, pesticīdu un apūdeņošanas izmantošanu; veicināt produktivitāti un samazināt ietekmi uz vidi. Roboti varētu nodarboties ar kaitīgu augu iznīcināšanu, piemēram, samazinot herbicīdu izmantošanu.
+Daudzas lauku saimniecības visā ES jau izmanto mākslīgo intelektu, lai uzraudzītu savu dzīvnieku pārvietošanos, temperatūru un barības patēriņu.
+Publiskā pārvalde un pakalpojumi
+Izmantojot plašu datu klāstu un modeļu atpazīšanu, mākslīgais intelekts varētu nodrošināt agrīnās brīdināšanas sistēmu par dabas katastrofām, sniedzot iespēju efektīvi sagatavoties un mazināt katastrofu radītās sekas.
+88% 61% eiropiešu pozitīvi vērtē mākslīgo intelektu un robotiku, tikmēr 88% uzskata, ka šīs tehnoloģijas ir rūpīgi jāpārvalda (2017. gada Eirobarometrs, ES-28).
