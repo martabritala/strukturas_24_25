@@ -3,9 +3,11 @@ class Node:
         self.info = saturs
         self.next = pec
         self.prev = pirms
+        return
 
     def read(self):
         print(self.info)
+        return 
 
 
 class List:
@@ -26,7 +28,7 @@ class List:
         else:
             if indekss == 0:
                 elements = Node(jaunais, pec = self.sakums)
-                elements.next.prev = elements
+                self.sakums.prev = elements
                 self.sakums = elements
             else:
                 aste = self.sakums
@@ -57,9 +59,11 @@ class List:
             self.sakums = None
             self.skaits = 0
             return
+        
         pirmspedejais = self.sakums
-        while pirmspedejais.next.next:
+        while pirmspedejais.next.next :
             pirmspedejais = pirmspedejais.next
+
         pirmspedejais.next = None
         self.skaits -=1
         return
